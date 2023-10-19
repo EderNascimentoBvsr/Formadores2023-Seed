@@ -4,6 +4,11 @@ body{
     padding:0;
 }
 
+header{
+
+    background-color: aquamarine;
+}
+
 
 h1{
     text-align: center;
