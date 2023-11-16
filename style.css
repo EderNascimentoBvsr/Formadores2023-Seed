@@ -32,10 +32,12 @@ p{
     text-align: center;
     color: rgb(199,21,133);
     font-family: 'Pacifico', cursive;
+    text-indent: ;
 }
 
 img{
     margin-left: 800px;
+    border-style: solid;
 }
 
 h3{
